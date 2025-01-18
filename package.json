@@ -1,7 +1,7 @@
 {
   "name": "personal-blog-api",
   "version": "1.0.0",
-  "description": "**Skills and technologies**: CRUD for main operations, databases and server-side RESTFUL API",
+  "description": "CRUD for main operations, databases and server-side RESTFUL API",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
